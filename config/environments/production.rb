@@ -20,6 +20,8 @@ ClothesShopBeta::Application.configure do
   # Generate digests for assets URLs
   config.assets.digest = true
 
+
+
   # Defaults to nil and saved in location specified by config.assets.prefix
   # config.assets.manifest = YOUR_PATH
 
@@ -46,7 +48,7 @@ ClothesShopBeta::Application.configure do
   # config.action_controller.asset_host = "http://assets.example.com"
 
   # Precompile additional assets (application.js, application.css, and all non-JS/CSS are already added)
-  # config.assets.precompile += %w( search.js )
+  config.assets.precompile += %w( bootstrap.css bootstrap-responsive.css style.css bootstrap.js script.js jquery-1.7.2.min.js )
 
   # Disable delivery errors, bad email addresses will be ignored
   # config.action_mailer.raise_delivery_errors = false
