@@ -29,6 +29,8 @@ application.js: application-cfe8a1ae489950276c58af64f618040a.js
 application/index.js: application-cfe8a1ae489950276c58af64f618040a.js
 bootstrap.js: bootstrap-2278faa643316de89357e90cd68c45fb.js
 bootstrap/index.js: bootstrap-2278faa643316de89357e90cd68c45fb.js
+bootstrap.min.js: bootstrap.min-450fac8ea7d12ce7dd4adde7fbf91abd.js
+bootstrap/index.min.js: bootstrap.min-450fac8ea7d12ce7dd4adde7fbf91abd.js
 jquery-1.7.2.min.js: jquery-1.7.2.min-fdcf738c43403877fa1a4bef7111284d.js
 jquery-1/index.7.2.min.js: jquery-1.7.2.min-fdcf738c43403877fa1a4bef7111284d.js
 script.js: script-2566c88fa1820952f88e72f5722b7ba0.js
