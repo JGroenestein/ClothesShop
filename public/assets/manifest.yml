@@ -25,6 +25,8 @@ slider2.png: slider2-4d93e24ff4247e82222020c53a39eff5.png
 slider2/index.png: slider2-4d93e24ff4247e82222020c53a39eff5.png
 slider3.png: slider3-b8012808ac8065f772e8764cbf16ba4e.png
 slider3/index.png: slider3-b8012808ac8065f772e8764cbf16ba4e.png
+xv.png: xv-f8c2444a32f2b2b4979cf7b53f718228.png
+xv/index.png: xv-f8c2444a32f2b2b4979cf7b53f718228.png
 application.js: application-cfe8a1ae489950276c58af64f618040a.js
 application/index.js: application-cfe8a1ae489950276c58af64f618040a.js
 bootstrap.js: bootstrap-2278faa643316de89357e90cd68c45fb.js
