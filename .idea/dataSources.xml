@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3758965853">
-    <data-source source="LOCAL" name="Rails ClothesShopBeta: development" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="a013e06e-e679-45aa-a6f5-f6b847003da8">
+  <component name="DataSourceManagerImpl" format="xml" hash="1535246199">
+    <data-source source="LOCAL" name="Rails ClothesShopBeta: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="9b61fded-1d29-4d7d-bab2-dfaf278d8d2d">
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Sites\rails_projects\ClothesShopBeta\db\development.sqlite3</jdbc-url>
       <libraries>
